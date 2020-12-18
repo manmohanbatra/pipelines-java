@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/shauryabatra2000/Pipelines-Java/_apis/build/status/Pipelines-Java?branchName=master)](https://dev.azure.com/shauryabatra2000/Pipelines-Java/_build/latest?definitionId=48&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
